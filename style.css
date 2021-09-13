@@ -1,0 +1,480 @@
+
+
+
+
+
+body{
+  background-color:  #b3e6ff;
+}
+
+
+
+.services{
+    padding: 55px 0;
+    text-align: left;
+
+}
+.services h1{
+    font-size: 45px;
+    background-color: rgb(248, 237, 237);
+    margin-bottom: 55px;
+    color: 	 #001a66;
+    font-family: sans-serif;
+}
+
+.btn1{
+  width:80px;
+  background-color: 	 #001a66;
+  border-radius:9px;
+}
+
+.btn2{
+  width:80px;
+  background-color:  #b30000;
+  border-radius:9px;
+}
+/* #addcard{
+  background-color: #c2d6d6;
+} */
+
+.card{
+  background-color:	 #c2d6d6;
+  margin: 30px;
+}
+
+.nav{
+  background-color: #00134d;
+  height:200px;
+  width:1600px;
+}
+
+h2{
+  color:  #d1e0e0;
+  font-size: 100px;
+  text-indent: 350px;
+  font-family: cursive;
+}
+
+h3{
+  color:  #d1e0e0;
+  font-size: 28px;
+  text-indent: 350px;
+  font-family:monospace;
+}
+/* .services .sap{
+    background-color: rgb(206, 170, 170);
+}
+.services .card{
+    border: 1px solid #fff;
+
+
+} */
+/* .services .card-body{
+    padding: 1.25rem .9rem;
+    align-items: center;
+
+}
+.services .card-body .card-title{
+    text-align: center;
+    color: balck;
+    font-weight: 700;
+} */
+
+
+
+/* .img-fluid{
+  display:block;
+  width: 200px;
+  height:300px;
+
+}
+ */
+
+
+/* .login_btn {
+			width: 100%;
+			background: #00b359 !important;
+			color: white !important;
+		}
+
+   .user_card {
+    			height: 450px;
+    			width: 400px;
+    			margin-top: auto;
+    			margin-bottom: auto;
+    			background: #ffffff;
+    			position: relative;
+    			display: flex;
+    			justify-content: center;
+    			flex-direction: column;
+    			padding: 10px;
+    			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    			-webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    			-moz-box-shadow: #f2f2f2;
+    			border-radius: 5px;
+
+    		}
+
+        .d-flex {
+           color:black;
+
+
+        }
+
+        .login-or {
+    position: relative;
+    font-size: 18px;
+    color: #000000;
+    margin-top: 10px;
+            margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .span-or {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -2px;
+    margin-left: -25px;
+    background-color: #fff;
+    width: 50px;
+    text-align: center;
+  }
+  .hr-or {
+    background-color: #cdcdcd;
+    height: 1px;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+  }
+
+  .logreg-forms .social-login{
+    width:490px;
+    margin:0 auto;
+    margin-bottom: 24px;
+
+}
+.logreg-forms .social-btn{
+    font-weight: 100;
+    color:white;
+    width:490px;
+    font-size: 0.9rem;
+
+}
+
+.facebook-btn{  background-color:#003d99;
+                color:#ffffff;
+                font-family: inherit;
+}
+
+#logreg-forms .google-btn{ background-color: #DF4B3B;
+                           color:#ffffff;
+                           font-family: inherit;
+}
+
+.signup_btn {
+			width: 100%;
+			background: #005ce6 !important;
+			color: white !important;
+		}
+
+#fb {
+  width:350px;
+}
+#gle{
+  width:350px;
+}
+
+  .mt{
+    text-align: center;
+    text-justify:inter-word;
+  } */
+
+  /* .services .btn-primary{
+      color: black;
+      background-color: #fff;
+      border-color: #fff;
+  } */
+
+  /* body{
+    background-color:#d1e0e0;
+  } */
+
+  /* .absolute {
+      position: absolute;
+      top: 110px;
+      right: 0;
+      width: 160px;
+      height: 100px;
+      color: red;
+      font-size:20px;
+    }
+
+    .pp { padding-left: 15px;
+          padding-bottom: 150px;
+          padding-top: 0;
+        }
+
+        .pic1{background-color: #eee;
+   width: 90%;
+   height: auto;
+   border: 1px dotted black;
+   overflow: hidden;
+     margin-left: 5%;
+     padding: 15px;
+   }
+   .pic2{background-color: lightblue;
+   width: 90%;
+   height: auto;
+   border: 1px dotted black;
+   overflow: hidden;
+     margin-left: 5%;
+     color: blue;
+     padding: 15px;
+   }
+   .div1 {border-left: 3px solid ;
+  padding: 5px;
+}
+
+.filterDiv {
+  float: left;
+
+
+  width: 200px;
+  line-height: 5px;
+  text-align: center;
+  margin: 6px;
+  display: none;
+
+  padding: 0
+}
+
+alink{ background-color: Gainsboro !important;  text-align: center !important; height: 150px; padding-top: 50px;}
+.button1 {
+  background-color: LightGray !important;
+  color: black !important;
+padding: 0.5px 0.5px !important;
+}
+
+.searchnav{
+  overflow: hidden;
+  background-color: #ffffff;
+  border: 3px solid grey;
+}
+
+.Search {
+​
+  float: right;
+  text-decoration: none;
+  border: 0px none;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+​
+​
+} */
+
+/* .img{
+  float :right;
+} */
+​
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer {
+    background: #00134d;
+    background-size: cover;
+    height:300px;
+
+}
+
+
+
+.first {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: rgb(206,206,206);
+    font-family: 'Poppins', sans-serif;
+}
+
+    .first h4 {
+        font-size: 20px;
+        letter-spacing: 3px;
+        position: relative;
+        margin-bottom: 20px;
+        font-size: 1.6em;
+        color: #fff;
+        padding-bottom: 0.5em;
+    }
+
+        .first h4::after {
+            content: '';
+            background: #66c83d;
+            width: 20%;
+            height: 2px;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+        }
+
+    .first p {
+        font-size: 14px;
+    }
+
+.second {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: rgb(206,206,206);
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.second2 {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: rgb(206,206,206);
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.second h4 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    position: relative;
+    margin-bottom: 20px;
+    font-size: 1.6em;
+    color: #fff;
+    padding-bottom: 0.5em;
+}
+
+    .second h4::after {
+        content: '';
+        background: #66c83d;
+        width: 20%;
+        height: 2px;
+        position: absolute;
+        bottom: 0;
+        left: 40%;
+    }
+
+
+.second li {
+    list-style: none;
+    padding-bottom: 30px;
+}
+
+.second a, .second2 a {
+    color: rgb(206, 206, 206);
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 14px;
+    transition: 0.2s;
+}
+
+    .second a:hover, .second2 a:hover {
+        color: #fff;
+        transition: 0.2s;
+        text-shadow: 1px 1px 20px rgba(0,0,0,1);
+        text-decoration: none
+
+    }
+
+
+
+.third {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: rgb(206,206,206);
+    font-family: 'Poppins', sans-serif;
+    text-align: right;
+}
+
+
+    .third h4 {
+        font-size: 20px;
+        letter-spacing: 3px;
+        position: relative;
+        margin-bottom: 20px;
+        font-size: 1.6em;
+        color: #fff;
+        padding-bottom: 0.5em;
+    }
+
+
+        .third h4::after {
+            content: '';
+            background: #66c83d;
+            width: 20%;
+            height: 2px;
+            position: absolute;
+            bottom: 0;
+            left: 80%;
+        }
+
+
+
+    .third li {
+        list-style: none;
+        padding-bottom: 15px;
+    }
+
+
+    .third a {
+        color: rgb(206, 206, 206);
+        text-decoration: none;
+        letter-spacing: 3px;
+        font-weight: bold;
+        font-size: 14px;
+        transition: 0.2s;
+    }
+
+
+        .third a:hover {
+            color: #fff;
+            transition: 0.2s;
+            text-shadow: 1px 1px 20px rgba(0,0,0,1);
+        }
+
+
+@media screen and (max-width:1000px) {
+    .first {
+        text-align: center;
+    }
+
+        .first h4::after {
+            left: 40%;
+        }
+}
+
+@media screen and (max-width:1000px) {
+    .third {
+        text-align: center;
+    }
+
+        .third h4::after {
+            left: 40% !important;
+        }
+}
+
+.margin {
+    margin-left: 20px;
+}
+
+.line {
+    height:2px;
+    background-color:rgb(206,206,206);
+    width:100%;
+}
+
+.container h1{
+    text-align:center;
+    margin-top:100px;
+    margin-bottom:100px;
+}
